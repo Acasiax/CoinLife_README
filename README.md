@@ -1,1 +1,1 @@
-# coinLife_README
+# 코인생활
