@@ -26,17 +26,17 @@
 
 ## 💻 개발 환경
 
-개발 기간: 2024년 9월 13일 ~ 2024년 10월 3일<br/>
-개발 인원: 1명<br/>
-개발 도구:<br/>
-IDE: Xcode 15.4<br/>
-버전 관리: Git<br/>
+**개발 기간**: 2024년 9월 13일 ~ 2024년 10월 3일<br/>
+**개발 인원**: 1명<br/>
+**개발 도구**:<br/>
+**IDE**: Xcode 15.4<br/>
+**버전 관리**: Git<br/>
 
 ## 🛠️ 기술 스택
-UI: SwiftUI – 제약 조건 기반 인터페이스 구성<br/>
-네트워크: Alamofire – Upbit API, WebSocket 및 Naver News API와의 네트워크 통신<br/>
-데이터베이스: RealmSwift – 사용자의 보유 자산 데이터를 안전하게 저장<br/>
-Reactive Programming: RxSwift, RxCocoa – 반응형 데이터 처리 및 이벤트 바인딩<br/>
+**UI**: SwiftUI – 제약 조건 기반 인터페이스 구성<br/>
+**네트워크**: Alamofire – Upbit API, WebSocket 및 Naver News API와의 네트워크 통신<br/>
+**데이터베이스**: RealmSwift – 사용자의 보유 자산 데이터를 안전하게 저장<br/>
+**Reactive Programming: RxSwift, RxCocoa** – 반응형 데이터 처리 및 이벤트 바인딩<br/>
 
 ## 📁 디렉토링 구조
 ```
