@@ -18,7 +18,7 @@
 
 ## ⚙️ 주요 기능
 
-실시간 시세 반영: WebSocket을 이용한 실시간 코인 시세 확인<br/>
+쏘켓통신을 통한 실시간 시세 반영: WebSocket을 이용한 실시간 코인 시세 확인<br/>
 자산 검색: 사용자가 원하는 가상자산을 쉽게 검색 가능<br/>
 실시간 수익률 분석: 사용자가 보유한 가상자산을 현 시세와 비교하여 실시간 수익률 분석 제공<br/>
 다양한 차트 기능: 원형 차트, 막대 차트 등 다양한 차트를 통해 보유 자산 분포를 한눈에 시각화<br/>
@@ -37,6 +37,9 @@
 **네트워크**: Alamofire – Upbit API, WebSocket 및 Naver News API와의 네트워크 통신<br/>
 **데이터베이스**: RealmSwift – 사용자의 보유 자산 데이터를 안전하게 저장<br/>
 **Reactive Programming: RxSwift, RxCocoa** – 반응형 데이터 처리 및 이벤트 바인딩<br/>
+
+## 라이브러리
+Alamofire, RealmSwift, SDWebImage, SwiftSoup
 
 ## 📁 디렉토링 구조
 ```
