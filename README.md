@@ -83,7 +83,7 @@ MyCoinPoket
 ## 📈 출시 데이터 순위
 | 모바일 앱스토어 출시 순위 | 맥북 앱스토어 출시 순위 |
 |---------------|---------------|
-| ![출시 순위 1](https://github.com/user-attachments/assets/23b6bdfd-00bf-4322-bbee-0ba73527edd5) width="200"/> | ![출시 순위 2](https://github.com/user-attachments/assets/e9cf066b-65e3-4bd6-ba17-01444484498e) width="200"/> |
+| ![출시 순위 1](https://github.com/user-attachments/assets/23b6bdfd-00bf-4322-bbee-0ba73527edd5) | ![출시 순위 2](https://github.com/user-attachments/assets/e9cf066b-65e3-4bd6-ba17-01444484498e) |
 
 
 
