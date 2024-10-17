@@ -7,9 +7,9 @@
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/784c4f5e-e36b-4db7-a4b9-b77e87ed4dc3)
 
 ## 📱 시뮬레이션
-| 검색 화면 | 홈 화면 | 포트폴리오 화면 | 뉴스 화면 |
+| 검색 화면 | 자산 추가 화면 | 포트폴리오 화면 | 뉴스 화면 |
 |---------------|---------------|---------------|---------------|
-| <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" /> | <img src="https://github.com/user-attachments/assets/c73a08a0-2d5b-4801-af38-92560b64bee6" width="200" />> | <img src="https://github.com/user-attachments/assets/fe7c7c27-1d0b-4ed2-893d-b8c0830fb7b0" width="200" /> | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" />
+| <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" /> | <img src="https://github.com/user-attachments/assets/8a7c9fbb-680a-4a51-b7fb-a0c5b3f5048b" width="200" />> | <img src="https://github.com/user-attachments/assets/fe7c7c27-1d0b-4ed2-893d-b8c0830fb7b0" width="200" /> | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" />
 
 | 공포지수 화면 | 다크모드 설정 화면 | Face ID 화면 | 뉴스 화면 |
 |---------------|---------------|---------------|---------------|
