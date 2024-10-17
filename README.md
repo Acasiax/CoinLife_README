@@ -7,13 +7,14 @@
 ![코인생활-리드미-사진-001](https://github.com/user-attachments/assets/784c4f5e-e36b-4db7-a4b9-b77e87ed4dc3)
 
 ## 📱 시뮬레이션
-| 검색 화면 | 자산 추가 화면 | 포트폴리오 화면 | 뉴스 화면 |
-|---------------|---------------|---------------|---------------|
-| <img src="https://github.com/user-attachments/assets/a041858d-f321-4ef8-8765-2609b20b9870" width="200" /> | <img src="https://github.com/user-attachments/assets/8a7c9fbb-680a-4a51-b7fb-a0c5b3f5048b" width="200" />> | <img src="https://github.com/user-attachments/assets/fe7c7c27-1d0b-4ed2-893d-b8c0830fb7b0" width="200" /> | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" />
+| 스플래쉬 화면 | 검색 화면 | 자산 추가 화면 | 포트폴리오 화면 | 뉴스 화면 |
+|---------------|---------------|---------------|---------------|---------------|
+| <img src="https://github.com/user-attachments/assets/be8dba8c-9550-48f6-b270-33822f61a98b" width="200" /> | <img src="https://github.com/user-attachments/assets/a041858d-f321-4ef8-8765-2609b20b9870" width="200" /> | <img src="https://github.com/user-attachments/assets/8a7c9fbb-680a-4a51-b7fb-a0c5b3f5048b" width="200" />> | <img src="https://github.com/user-attachments/assets/fe7c7c27-1d0b-4ed2-893d-b8c0830fb7b0" width="200" /> | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" />
 
 | 공포지수 화면 | 다크모드 설정 화면 | Face ID 화면 | 보유 자산 차트 화면 | 시세 차트 화면 |
 |---------------|---------------|---------------|---------------|---------------|
  | <img src="https://github.com/user-attachments/assets/fb10df48-839d-4575-938e-ff149e8104db" width="200" /> | <img src="https://github.com/user-attachments/assets/29cd6406-1488-4906-916d-1eaa071cd8f7" width="200" /> | <img src="https://github.com/user-attachments/assets/4a689071-147d-4c63-b650-5e6bda0f957d" width="200" /> | <img src="https://github.com/user-attachments/assets/e915434d-8e22-4c8a-bdee-9bdc68e2a32c" width="200" /> | <img src="https://github.com/user-attachments/assets/fa7ac0a8-6f2f-4d4f-9a13-30986895350c" width="200" />
+
 
 ## ⚙️ 주요 기능
 
