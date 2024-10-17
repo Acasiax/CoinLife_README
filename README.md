@@ -11,6 +11,11 @@
 |---------------|---------------|---------------|---------------|
 | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" /> | <img src="https://github.com/user-attachments/assets/c73a08a0-2d5b-4801-af38-92560b64bee6" width="200" />> | <img src="https://github.com/user-attachments/assets/fe7c7c27-1d0b-4ed2-893d-b8c0830fb7b0" width="200" /> | <img src="https://github.com/user-attachments/assets/8eefd325-3de9-4bac-9310-9986492c4ff1" width="200" />
 
+| 공포지수 화면 | 다크모드 설정 화면 | Face ID 화면 | 뉴스 화면 |
+|---------------|---------------|---------------|---------------|
+ | <img src="https://github.com/user-attachments/assets/fb10df48-839d-4575-938e-ff149e8104db" width="200" /> | <img src="https://github.com/user-attachments/assets/29cd6406-1488-4906-916d-1eaa071cd8f7" width="200" /> | <img src="https://github.com/user-attachments/assets/4a689071-147d-4c63-b650-5e6bda0f957d" width="200" /> | <img src="https://github.com/user-attachments/assets/4a689071-147d-4c63-b650-5e6bda0f957d" width="200" />
+
+
 
 
 ## ⚙️ 주요 기능
