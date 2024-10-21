@@ -40,7 +40,7 @@
 - **UI**: SwiftUI – 제약 조건 기반 인터페이스 구성<br/>
 - **네트워크**: Alamofire – Upbit API, WebSocket 및 Naver News API와의 네트워크 통신<br/>
 - **데이터베이스**: RealmSwift – 사용자의 보유 자산 데이터를 안전하게 저장<br/>
-- **Reactive Programming: RxSwift, RxCocoa** – 반응형 데이터 처리 및 이벤트 바인딩<br/>
+- **Reactive Programming: combine** – 반응형 데이터 처리 및 이벤트 바인딩<br/>
 
 ## 라이브러리
 - Alamofire, RealmSwift, SDWebImage, SwiftSoup
@@ -93,7 +93,7 @@ MyCoinPoket
 ## 🤔 고민한 부분
 
 - 실시간 시세 반영: WebSocket을 통해 수신하는 시세 정보를 효율적으로 관리하고, 메모리 누수를 방지하기 위한 최적화 방법에 대해 고민했습니다.
-- 반응형 UI 구성: RxSwift와 RxCocoa를 활용해 데이터 흐름과 UI 업데이트를 어떻게 효율적으로 연동할지에 대해 깊이 고민했습니다.
+- 반응형 UI 구성: combine를 활용해 데이터 흐름과 UI 업데이트를 어떻게 효율적으로 연동할지에 대해 깊이 고민했습니다.
 
 ## 😨 트러블 슈팅
 
